@@ -94,8 +94,8 @@
       "System.Threading.ThreadPool.dll": "sha256-CBPGkU26XwJaNWMTZh3xb2NieiVf4K6gg0IJLeVXkXU=",
       "System.Xml.ReaderWriter.dll": "sha256-O+MhSsteVjtMG7rMxBlbkWatG\/+spDvgKXMUhipYVSM=",
       "System.Xml.XDocument.dll": "sha256-il\/ouZBIF\/zKFpLnDYapInGBY9QawVyJz4Zgf6h\/KD0=",
-      "Wordle.dll": "sha256-WMeQSngyrwpNysMTY5JoGEASq5RaKqWZ3I6Qg6l1+xo=",
-      "Wordle.Web.dll": "sha256-Xel4Ad+ehHfS9uFLOsoLLro+c1asLczZQKRI2\/DakKA="
+      "Wordle.dll": "sha256-BJuGrNF10cQPKr2qTmDen4s917DUvGCMZnNBLo1\/4VQ=",
+      "Wordle.Web.dll": "sha256-P5gT1oTOclcRvdOUd0+FqMMj7NZKMelPLqtrZzPHNzY="
     },
     "extensions": null,
     "lazyAssembly": null,
